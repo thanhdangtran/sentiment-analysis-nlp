@@ -16,5 +16,5 @@ Data link: [Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-review
 
 ## EDA Goals
 To determine whether reviews are positive, negative, or neutral, I'll using 2 natural language processing (NLP) techniques following:
-- VADER (Valence Aware Dictionary and sEntiment Reasoner). Model link: [VADER](https://github.com/cjhutto/vaderSentiment)
-- RoBERTa-base for Sentiment Analysis. Model link: [RoBERTa](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)   
+- VADER (Valence Aware Dictionary and sEntiment Reasoner). Detail link: [VADER](https://github.com/cjhutto/vaderSentiment)
+- RoBERTa-base for Sentiment Analysis. Detail link: [RoBERTa](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)   
